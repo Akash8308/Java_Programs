@@ -1,6 +1,6 @@
 package com.edu;
 
-public class ReverseNumber {
+public class Palindrome1 {
 
 	public static void main(String[] args) {
 		// 342
