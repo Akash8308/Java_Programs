@@ -1,4 +1,4 @@
-package com.edu;
+dpackage com.edu;
 
 
 import java.util.Scanner;

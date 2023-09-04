@@ -35,10 +35,11 @@ class CountVowelsInWord{
 				else{
 					s2.reverse();
 					s3.append(s2);
+					s3.append(" ");
 					s2.delete(0, s2.length());					
 				}
 				if(i == s1.length()-1){
-					s3.append(" ");
+//					s3.append(" ");
 					s2.reverse();
 					s3.append(s2);				
 				}
